@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/TGGTHERO/AUTFILTERBOT",
-    "repository": "https://github.com/TGGTHERO/AUTFILTERBOT",
+    "website": "https://github.com/haashim007/AUTFILTERBOT",
+    "repository": "https://github.com/haashim007/AUTFILTERBOT",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
