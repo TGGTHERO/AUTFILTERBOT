@@ -8,4 +8,11 @@
 ## Deploy
 You can deploy this bot anywhere.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
+
+<summary>Deploy To Heroku</summary>
+<br>
+<p>
+<a href="https://heroku.com/deploy?template=https://github.com/haashim007/AUTFILTERBOT">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
